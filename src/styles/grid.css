@@ -1,0 +1,15 @@
+.tec-view-pack-grid #tribe-events-content .tribe-events-loop {
+	align-items: baseline;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.tec-view-pack-grid #tribe-events-content .tribe-events-list-separator-month {
+	display: none;
+}
+
+.tec-view-pack-grid #tribe-events-content .type-tribe_events {
+	flex-basis: 20rem;
+}
